@@ -1,0 +1,5 @@
+This is a test file committed to the GarvitTest branch.
+
+Purpose:
+• To verify branch creation.
+• To enable future Github Actions workflow tests.
