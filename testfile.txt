@@ -1,0 +1,15 @@
+This is a test file created for validating branch creation and basic commit functionality
+in the azure-gcp-sst/Tinzookery_public repository.
+
+Ordered List:
+• Step 1: Branch 'GarvitTest' created from 'main'
+• Step 2: Test file committed to 'GarvitTest'
+
+SQL Style Table:
++----------------+------------------+
+|     Branch     |     Status       |
++----------------+------------------+
+| GarvitTest     | Test file added  |
++----------------+------------------+
+
+Purpose: Demo for DND Github Actions
