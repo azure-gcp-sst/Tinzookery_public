@@ -1,0 +1,12 @@
+# Test File for GarvitTest3 Branch
+
+This is a placeholder test file committed for validating branch creation and workflow operations.
+
+Details:
+• Branch: GarvitTest3
+• Based on: main
+• Repository: azure-gcp-sst/Tinzookery_public
+
+Purpose:
+• Sanity check for new branch.
+• Enables verification of Github Actions setup.
