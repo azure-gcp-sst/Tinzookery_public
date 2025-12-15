@@ -1,0 +1,5 @@
+This is a test file committed to the GarvitCentral branch of azure-gcp-sst/Tinzookery_public repository.
+
+Contents:
+• Test file for branch validation.
+• Basic setup for future development and QA.
