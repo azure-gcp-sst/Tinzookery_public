@@ -1,0 +1,5 @@
+This is a test file created as per the request in the main branch of azure-gcp-sst/Tinzookery_public.
+
+Content includes:
+• Placeholder text to indicate successful creation.
+• No sensitive or production-related data.
