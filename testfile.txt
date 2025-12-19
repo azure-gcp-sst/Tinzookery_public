@@ -1,5 +1,7 @@
-This is a test file created as per the request in the main branch of azure-gcp-sst/Tinzookery_public.
+This is a test file committed to the GarvitTest001 branch of the azure-gcp-sst/Tinzookery_public repository.
 
-Content includes:
-• Placeholder text to indicate successful creation.
-• No sensitive or production-related data.
+Purpose:
+• To validate branch creation and commit functionality.
+• For QA and demonstration purposes only.
+
+Thank you.
