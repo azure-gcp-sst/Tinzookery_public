@@ -1,0 +1,4 @@
+This is a test file committed to the branch 'gmurthy-test-1' in the 'azure-gcp-sst/Tinzookery_public' repository.
+Purpose: Verify branch creation and commit permission.
+
+Created by Qa for validation.
