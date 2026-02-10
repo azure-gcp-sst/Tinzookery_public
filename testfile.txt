@@ -1,5 +1,1 @@
-This is a test file created as per the request in the main branch of azure-gcp-sst/Tinzookery_public.
-
-Content includes:
-• Placeholder text to indicate successful creation.
-• No sensitive or production-related data.
+This is a test file for the newly created branch GarvitTest23145 in the azure-gcp-sst/Tinzookery_public repository.
