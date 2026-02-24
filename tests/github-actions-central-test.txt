@@ -1,0 +1,14 @@
+DND Github Actions Central - Test File
+
+This is a test file committed to verify that the branch `chethCustom1`
+in the repository `azure-gcp-sst/Tinzookery_public` can successfully
+accept new commits via the automated workflow.
+
+Context:
+• Repository: azure-gcp-sst/Tinzookery_public
+• Branch: chethCustom1
+• Action: Commit a simple test artifact to validate connectivity and permissions.
+
+Notes:
+• This file is for testing and validation purposes only.
+• It can be safely modified or removed in future updates once validation is complete.
