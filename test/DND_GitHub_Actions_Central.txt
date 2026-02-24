@@ -1,0 +1,20 @@
+DND Github Actions Central - Test File
+
+This is a test file committed to the branch:
+• Branch Name: TestBranch3284
+• Base Branch: main
+• Repository: azure-gcp-sst/Tinzookery_public
+
+Purpose:
+• Provide a simple artifact to verify commits on the newly created branch.
+• Support any validation or demonstration related to "DND Github Actions Central".
+
+Metadata Table:
++-------------------------+----------------------------------------+
+| Attribute               | Value                                  |
++-------------------------+----------------------------------------+
+| Author (requestor)      | Steve Smith                            |
+| Context                 | DND Github Actions Central             |
+| File Type               | Plaintext                             |
+| Intended Use            | Testing / validation only              |
++-------------------------+----------------------------------------+
