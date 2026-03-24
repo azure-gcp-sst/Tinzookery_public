@@ -1,0 +1,9 @@
+This is a test file committed on branch GarvitCustom1.
+
+Context:
+• Repository: azure-gcp-sst/Tinzookery_public
+• Purpose: Test commit for DND Github Actions Central flows.
+• Author context: Azure SST workplace assistant for Steve Smith (steve.smith@salessavvy.net).
+
+Notes:
+• This file is only for verification and testing of GitHub Actions and branch setup.
