@@ -1,0 +1,13 @@
+Test File for DND GitHub Actions
+
+This file was created on branch `chethtestt` in repository `azure-gcp-sst/Tinzookery_public`.
+
+Purpose:
+• Serve as a simple, non-critical artifact for validating GitHub Actions behavior.
+• Allow safe testing of DND-related automation or other CI/CD workflows.
+• Provide a clear example file that can be updated or removed without affecting main functionality.
+
+Metadata:
+• Base branch: main
+• Target branch: chethtestt
+• Intended usage: Workflow and automation testing only.
